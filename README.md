@@ -5,4 +5,4 @@ A python app for currency exchange with live data
 pip install -r requirements.txt
 
 #PROJECT
-![Screenshot](screenshot.png)
+![Screenshot](screenshot_1.png)
